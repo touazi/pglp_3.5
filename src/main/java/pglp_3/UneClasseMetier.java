@@ -22,9 +22,8 @@ System.out.println (LocalDateTime.now( ) + " : Fin de une Methode Metier " ) ; /
  
  * */
 public class UneClasseMetier {
-public void uneMethodeMetier ( ) {
-System.out.println ( LocalDateTime.now ( ) + " : Début de une Methode Metier " ) ; // log message
-// Traitements métiers
-System.out.println (LocalDateTime.now( ) + " : Fin de une Methode Metier " ) ; // log message
-}
+	public void affichage(DIP_interface dip) {
+		dip.affichage();
+		
+	}
 }
