@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>uvsq_gl</groupId>
-  <artifactId>exo_3.5</artifactId>
+  <groupId>uvsq_pglp_3.5</groupId>
+  <artifactId>pglp_3.5</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>exo_3.5</name>
+  <name>pglp_3.5</name>
   <url>http://maven.apache.org</url>
 
   <properties>
