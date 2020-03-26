@@ -16,7 +16,7 @@ public class AffichageTest1 {
 	  @Test
 	    public void affichagedemetier(){
 	        UneClasseMetier metier = new UneClasseMetier();
-	        DIP_interface affi= new Affichage();
+	        DipInterface affi= new Affichage();
 	        metier.affichage(affi);
 	    }
 }

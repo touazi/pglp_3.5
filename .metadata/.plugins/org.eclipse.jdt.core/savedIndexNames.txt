@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\Users\lylia\Desktop\S2\GL\pglp_3.5\.metadata\.plugins\org.eclipse.jdt.core
-2864823456.index
