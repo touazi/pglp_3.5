@@ -9,7 +9,7 @@ package pglp_3;
 *public void uneMethodeMetier ( ){
 *System.out.println ( LocalDateTime.now ( )+ " :
 *Début de une Methode Metier " );
-*System.out.println (LocalDateTime.now( ) + 
+*System.out.println (LocalDateTime.now( ) +
 *" : Fin de une Methode Metier " );}}
 * ce code ne respecte pas le principe DIP car Lorsque ce
 * principe est appliqué, cela signifie que les classes de
@@ -31,7 +31,7 @@ public class UneClasseMetier {
  * * @param dip elle prend l'interfe en parametre
  *  * et afficher
  *   * */
-public void affichage(DipInterface dip) {
+public final void affichage(final DipInterface dip) {
 dip.affichage();
 }
 }

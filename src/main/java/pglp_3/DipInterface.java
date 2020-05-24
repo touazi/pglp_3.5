@@ -5,9 +5,8 @@ package pglp_3;
  * @version 3.0
  */
 public interface DipInterface {
-
 /**
  * methode affichage.
  * */
-void affichage();
+public abstract void affichage();
 }
